@@ -7,4 +7,4 @@
 #### Type 'git init'
 #### Type 'git remote add origin https://github.com/fazaamal/bfs-project.git'
 #### Type 'git pull origin main'
-#### Type 'npm install'
+#### Type 
